@@ -16,7 +16,7 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "styled-components": "5.2.1",
-    "swr": "0.5.3",
+    "swr": "0.5.5",
     "use-wallet": "0.8.1"
   },
   "description": "This is a simple web3 starter with a clean layout",
