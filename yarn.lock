@@ -3590,10 +3590,10 @@ ethereumjs-vm@^2.1.0, ethereumjs-vm@^2.3.4, ethereumjs-vm@^2.6.0:
     rustbn.js "~0.2.0"
     safe-buffer "^5.1.1"
 
-ethers-multicall@0.1.6:
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/ethers-multicall/-/ethers-multicall-0.1.6.tgz#ba0a50df9c833ee86cda3f157ded837bcd4b67f1"
-  integrity sha512-FQ4HdJ8hH/AZ0u1SWWqjXBEDhM1SnQf/WY7IDczqP9hG4R3N8AjFLZg88byyn/ozxJEqCfqaXJFkvDVtGb83oQ==
+ethers-multicall@0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/ethers-multicall/-/ethers-multicall-0.2.1.tgz#0c01dc50f3b87c93be11e39bc8bc668bfa762b60"
+  integrity sha512-buSg3j75HhMnRiZ+hIXfJYA/MUZbhukE1oczeluM7O+4yWjhqI98ADcQ0bPr8EOpwtV4J3Eba47fkbx5GJpz5Q==
   dependencies:
     ethers "^5.0.0"
 
